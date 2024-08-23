@@ -6,5 +6,12 @@ Lista de comandos git
 
 | Basico | Medio | Avanzado |
 | ------ | ----- | -------- |
-| ls | ----- | ----------    |
-   
+| git init | ----- | ----------    |
+| git clone <url> | ----- | ----------    |
+| git add <file> | ----- | ----------    |
+
+```git bash
+ls
+pwd
+
+```
