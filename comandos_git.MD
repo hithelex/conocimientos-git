@@ -7,8 +7,8 @@ Lista de comandos git
 | Basico | 
 | ------ | 
 | git init | 
+| git add <file>| 
 | git clone <url> | 
-| git add <file> | 
 
 
 Inicializa un nuevo repositorio Git en el directorio actual.
@@ -20,5 +20,11 @@ Inicializa un nuevo repositorio Git en el directorio actual.
 Clona un repositorio existente desde una URL a tu máquina local.
 
 ```bash
-    git clone 
+    git clone <url>
+```
+
+Añade el archivo especificado al área de preparación.
+
+```bash
+    git add <file>
 ```
