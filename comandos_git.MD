@@ -16,3 +16,9 @@ Inicializa un nuevo repositorio Git en el directorio actual.
 ```bash
     git init 
 ```
+
+Clona un repositorio existente desde una URL a tu máquina local.
+
+```bash
+    git clone 
+```
