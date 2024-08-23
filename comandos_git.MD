@@ -1,8 +1,8 @@
 COMANDOS DE GIT Y SU USO
 ========================
+
 Lista de comandos git
 ----------------------
-
 
 | Basico | Medio | Avanzado |
 | ------ | ----- | -------- |
@@ -10,8 +10,9 @@ Lista de comandos git
 | git clone <url> | ----- | ----------    |
 | git add <file> | ----- | ----------    |
 
-```git bash
-ls
-pwd
 
+Inicializa un nuevo repositorio Git en el directorio actual.
+
+```bash
+    git init 
 ```
