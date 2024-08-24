@@ -1,4 +1,4 @@
-# git add *<file>*
+# git add *file*
 Añade el archivo especificado al área de preparación.
 
 ## Uso
