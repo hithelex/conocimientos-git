@@ -5,5 +5,5 @@ Inicializa un nuevo repositorio Git en el directorio actual.
 ```bash
     git init 
 ```
-### Ejemplo
+### Ejemplo 😎
 ![Ejemplo de uso de git init](./recursos/git_init.png "Ejemplo de git init")
