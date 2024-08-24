@@ -6,7 +6,7 @@ Lista de comandos git
 
 | Basico | 
 | ------ | 
-| [git init](#uno) | 
+| [git init](#./test.md) | 
 | [git add *file*](#dos) | 
 | [git add .](#tres) | 
 | [git commit -m *mensaje*](#cuatro) | 
@@ -20,7 +20,7 @@ Lista de comandos git
 | [git pull](#doce) | 
 
 
-### uno
+
 Inicializa un nuevo repositorio Git en el directorio actual.
 
 ```bash

@@ -1,6 +1,6 @@
-## dos
-Añade el archivo especificado al área de preparación.
+# git init
+Inicializa un nuevo repositorio Git en el directorio actual.
 
 ```bash
-    git add <file>
+    git init 
 ```
