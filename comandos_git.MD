@@ -47,7 +47,7 @@ Lista todas las ramas locales en el repositorio.
     git branch
 ```
 
-Crea una nueva rama llamada <nombre>.
+Crea una nueva rama llamada *nombre*.
 
 ```bash
     git branch <nombre>
