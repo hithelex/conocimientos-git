@@ -11,11 +11,13 @@ Lista de comandos git
 | git add . | 
 | git commit -m *mensaje* | 
 | git status | 
+| git push | 
 | git branch | 
 | git branch *nombre* |
 | git checkout *nombre-rama* |
 | git merge *nombre-rama* |
 | git clone *url* | 
+| git pull | 
 
 
 
@@ -43,6 +45,18 @@ Crea un commit con los archivos en el área de preparación y un mensaje descrip
     git commit -m <mensaje>
 ```
 
+Muestra el estado de los archivos en el directorio de trabajo y el área de preparación.
+
+```bash
+    git status
+```
+
+Sube los commits de la rama actual al repositorio remoto.
+
+```bash
+    git push
+```
+
 Lista todas las ramas locales en el repositorio.
 
 ```bash
@@ -61,7 +75,7 @@ Cambia a la rama especificada *nombre*.
     git checkout <nombre-rama>
 ```
 
-Fusiona la rama especificada (*nombre*) con la rama actua.
+Fusiona la rama especificada (*nombre*) con la rama actual.
 
 ```bash
     git merge <nombre-rama>
@@ -71,5 +85,11 @@ Clona un repositorio existente desde una URL a tu máquina local.
 
 ```bash
     git clone <url>
+```
+
+Descarga y fusiona los cambios del repositorio remoto en la rama actual.
+
+```bash
+    git pull
 ```
 
