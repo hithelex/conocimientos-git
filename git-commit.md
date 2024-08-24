@@ -1,7 +1,7 @@
 # git commit
 Crea un commit con los archivos en el área de preparación y un mensaje descriptivo.
 
-# Uso
+## Uso
 ```bash
     git commit -m <mensaje>
 ```
