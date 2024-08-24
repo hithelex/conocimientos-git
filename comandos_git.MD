@@ -13,6 +13,7 @@ Lista de comandos git
 | git status | 
 | git branch | 
 | git branch *nombre* |
+| git checkout *nombre-rama* |
 | git clone *url* | 
 
 
@@ -51,6 +52,12 @@ Crea una nueva rama llamada *nombre*.
 
 ```bash
     git branch <nombre>
+```
+
+Cambia a la rama especificada *nombre*.
+
+```bash
+    git checkout <nombre-rama>
 ```
 
 Clona un repositorio existente desde una URL a tu máquina local.
