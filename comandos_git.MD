@@ -6,21 +6,21 @@ Lista de comandos git
 
 | Basico | 
 | ------ | 
-| git init | 
-| git add *file* | 
-| git add . | 
-| git commit -m *mensaje* | 
-| git status | 
-| git push | 
-| git branch | 
-| git branch *nombre* |
-| git checkout *nombre-rama* |
-| git merge *nombre-rama* |
-| git clone *url* | 
-| git pull | 
+| [git init](#uno) | 
+| [git add *file*](#dos) | 
+| [git add .](#tres) | 
+| [git commit -m *mensaje*](#cuatro) | 
+| [git status](#cinco) | 
+| [git push](#seis) | 
+| [git branch](#siete) | 
+| [git branch *nombre*](#ocho) |
+| [git checkout *nombre-rama*](#nueve) |
+| [git merge *nombre-rama*](#diez) |
+| [git clone *url*](#once) | 
+| [git pull](#doce) | 
 
 
-
+### uno
 Inicializa un nuevo repositorio Git en el directorio actual.
 
 ```bash
