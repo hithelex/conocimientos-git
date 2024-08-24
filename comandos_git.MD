@@ -7,10 +7,14 @@ Lista de comandos git
 | Basico | 
 | ------ | 
 | git init | 
-| git add *file*| 
-| git add .| 
-| git commit -m *mensaje*| 
-| git clone *url*| 
+| git add *file* | 
+| git add . | 
+| git commit -m *mensaje* | 
+| git status | 
+| git branch | 
+| git branch *nombre* |
+| git clone *url* | 
+
 
 
 Inicializa un nuevo repositorio Git en el directorio actual.
@@ -35,6 +39,18 @@ Crea un commit con los archivos en el área de preparación y un mensaje descrip
 
 ```bash
     git commit -m <mensaje>
+```
+
+Lista todas las ramas locales en el repositorio.
+
+```bash
+    git branch
+```
+
+Crea una nueva rama llamada <nombre>.
+
+```bash
+    git branch <nombre>
 ```
 
 Clona un repositorio existente desde una URL a tu máquina local.
