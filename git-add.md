@@ -6,7 +6,7 @@ Añade el archivo especificado al área de preparación.
     git add <file>
 ```
 ### Ejemplo 😎
-![Ejemplo de uso de add <file>](./recursos/git_add-file-.png "Ejemplo de git add <file>")
+![Ejemplo de uso de git add <file>](./recursos/git_add-file-.png "Ejemplo de git add <file>")
 
 ---------------------
 
@@ -18,5 +18,5 @@ Añade todos los cambios en los archivos del directorio actual al área de prepa
     git add .
 ```
 ### Ejemplo 😎
-![Ejemplo de uso de add .](./recursos/git_add.png "Ejemplo de git add .")
+![Ejemplo de uso de git add .](./recursos/git_add.png "Ejemplo de git add .")
 
