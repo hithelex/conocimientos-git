@@ -33,7 +33,7 @@ Añade el archivo especificado al área de preparación.
 Añade todos los cambios en los archivos del directorio actual al área de preparación.
 
 ```bash
-    git add .
+    git add *.*
 ```
 
 Crea un commit con los archivos en el área de preparación y un mensaje descriptivo.
