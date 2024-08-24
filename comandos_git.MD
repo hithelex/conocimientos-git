@@ -14,6 +14,7 @@ Lista de comandos git
 | git branch | 
 | git branch *nombre* |
 | git checkout *nombre-rama* |
+| git merge *nombre-rama* |
 | git clone *url* | 
 
 
@@ -33,7 +34,7 @@ Añade el archivo especificado al área de preparación.
 Añade todos los cambios en los archivos del directorio actual al área de preparación.
 
 ```bash
-    git add *.*
+    git add .
 ```
 
 Crea un commit con los archivos en el área de preparación y un mensaje descriptivo.
@@ -58,6 +59,12 @@ Cambia a la rama especificada *nombre*.
 
 ```bash
     git checkout <nombre-rama>
+```
+
+Fusiona la rama especificada (*nombre*) con la rama actua.
+
+```bash
+    git merge <nombre-rama>
 ```
 
 Clona un repositorio existente desde una URL a tu máquina local.
