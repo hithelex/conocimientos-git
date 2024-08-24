@@ -8,7 +8,7 @@ Lista de comandos git
 | ------ | 
 | [git init](./git-init.md) | 
 | [git add *file*](./git-add.md) | 
-| [git add .](#tres) | 
+| [git add .](./git-add.md) | 
 | [git commit -m *mensaje*](#cuatro) | 
 | [git status](#cinco) | 
 | [git push](#seis) | 
