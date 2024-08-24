@@ -6,7 +6,7 @@ Lista de comandos git
 
 | Basico | 
 | ------ | 
-| [git init](./test.md) | 
+| [git init](./git-init.md) | 
 | [git add *file*](#dos) | 
 | [git add .](#tres) | 
 | [git commit -m *mensaje*](#cuatro) | 
