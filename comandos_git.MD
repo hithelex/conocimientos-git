@@ -34,7 +34,7 @@ Añade todos los cambios en los archivos del directorio actual al área de prepa
 Crea un commit con los archivos en el área de preparación y un mensaje descriptivo.
 
 ```bash
-    git commit -m "mensaje"
+    git commit -m <mensaje>
 ```
 
 Clona un repositorio existente desde una URL a tu máquina local.
