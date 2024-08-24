@@ -17,14 +17,15 @@ Inicializa un nuevo repositorio Git en el directorio actual.
     git init 
 ```
 
+Añade el archivo especificado al área de preparación.
+
+```bash
+    git add <file>
+```
+
 Clona un repositorio existente desde una URL a tu máquina local.
 
 ```bash
     git clone <url>
 ```
 
-Añade el archivo especificado al área de preparación.
-
-```bash
-    git add <file>
-```
