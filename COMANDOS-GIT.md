@@ -10,7 +10,7 @@ Lista de comandos git
 | [git add ](./git-add.md) | 
 | [git commit ](./git-commit.md) | 
 | [git status](git-status.md) | 
-| [git push](#seis) | 
+| [git push](git-push.md) | 
 | [git branch](#siete) | 
 | [git branch *nombre*](#ocho) |
 | [git checkout *nombre-rama*](#nueve) |
