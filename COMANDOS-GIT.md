@@ -4,9 +4,9 @@ COMANDOS DE GIT Y SU USO
 Lista de comandos git
 ----------------------
 
-| Basico |                              | Medio |
-| ------ |                              | ------ | 
-| [git init](./git-init.md) |           | [git MERGE](./git-init.md) |
+| Basico | Medio |
+| ------ | --------------------------------------------- | 
+| [git init](./git-init.md) | [git MERGE](./git-init.md) |
 | [git add ](./git-add.md) | 
 | [git commit ](./git-commit.md) | 
 | [git status](git-status.md) | 
