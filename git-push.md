@@ -6,6 +6,6 @@ Sube los commits de la rama actual al repositorio remoto.
     git push
 ```
 ### Ejemplo 😎
-![Ejemplo de uso de git push](./recursos/git_status.png "Ejemplo de git push")
+![Ejemplo de uso de git push](./recursos/git_push.png "Ejemplo de git push")
 
 
