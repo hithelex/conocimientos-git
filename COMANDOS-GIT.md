@@ -6,8 +6,8 @@ Lista de comandos git
 
 | Basico | 
 | ------ | 
-| [git init](./git-init.md) | 1
-| [git add ](./git-add.md) | 1
+| [git init](./git-init.md) | 
+| [git add ](./git-add.md) | 
 | [git commit ](./git-commit.md) | 
 | [git status](#cinco) | 
 | [git push](#seis) | 
