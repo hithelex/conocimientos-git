@@ -16,19 +16,7 @@ Lista de comandos git
 | [git checkout *nombre-rama*](#nueve) |
 | [git merge *nombre-rama*](#diez) |
 | [git clone *url*](#once) | 
-| [git pull](#doce) |                                                 | Basico |                                                        
-                                                | ------ | 
-                                                | [git init](./git-init.md) | 
-                                                | [git add ](./git-add.md) | 
-                                                | [git commit ](./git-commit.md) | 
-                                                | [git status](git-status.md) | 
-                                                | [git push](git-push.md) | 
-                                                | [git branch](#siete) | 
-                                                | [git branch *nombre*](#ocho) |
-                                                | [git checkout *nombre-rama*](#nueve) |
-                                                | [git merge *nombre-rama*](#diez) |
-                                                | [git clone *url*](#once) | 
-                                                | [git pull](#doce) | 
+| [git pull *url*](#once) |                             
 
 
 
